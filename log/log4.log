@@ -1,0 +1,2 @@
+okt 05, 2017 2:16:46 EM JUnitAssignment.ChristianDanielE_Assignment_TestSuite.TestCase4 testAndraVarukorg
+INFO: Adding a product to the shopping cart, and increasing the quantity by one. Expecting the price to double from 89.90 to 179.80.

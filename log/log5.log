@@ -1,0 +1,5 @@
+okt 05, 2017 2:17:20 EM JUnitAssignment.ChristianDanielE_Assignment_TestSuite.TestCase5 testPriser
+INFO: Comparing prices at productpage with checkout, expected = true if they are equal
+okt 05, 2017 2:17:28 EM JUnitAssignment.ChristianDanielE_Assignment_TestSuite.TestCase5 testPriser
+INFO: Product page price: 89.9
+Checkout page price: 89.9
